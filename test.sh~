@@ -1,0 +1,5 @@
+out=`diff server serverc`
+IFS=$'\n'
+for line in $out; do
+    echo ${line##*:}
+done

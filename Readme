@@ -1,0 +1,12 @@
+open a terminal run,
+bash server.sh
+
+open another terminal
+
+bash client.sh
+
+
+
+NOW
+
+copy anything to server, it will appear in client folder
