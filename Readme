@@ -1,3 +1,4 @@
+Make a folder named "client" and server folder "server"
 open a terminal run,
 bash server.sh
 
